@@ -1,0 +1,6 @@
+{
+  "name": "mi-sdd",
+  "description": "SDD estilo LIDR sobre Superpowers + OpenSpec, con reglas PowerShell para infraestructura",
+  "version": "0.1.0",
+  "author": { "name": "Maxi" }
+}
